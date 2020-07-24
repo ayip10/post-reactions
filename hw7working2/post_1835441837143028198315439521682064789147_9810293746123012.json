@@ -1,0 +1,24 @@
+{
+   "created_time" : "2020-06-14T19:33:00+0000",
+   "from" : {
+      "avatar_name" : "Suki",
+      "vsID" : "1835441837143028198315439521682064789147"
+   },
+   "id" : "1835441837143028198315439521682064789147_9810293746123012",
+   "is_published" : true,
+   "keys" : {
+      "count" : 4,
+      "data" : [ "tacos", "lol", "wings", "good" ]
+   },
+   "message" : "Tacos are pretty good lol",
+   "to" : {
+      "count" : 1,
+      "data" : [
+         {
+            "avatar_name" : "Orcale",
+            "vsID" : "112638136365359060811666331781839957994"
+         }
+      ]
+   },
+   "updated_time" : "0-00-00T00:00:00+0000"
+}
